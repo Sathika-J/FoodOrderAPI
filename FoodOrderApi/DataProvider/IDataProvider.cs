@@ -1,7 +1,7 @@
 ﻿using FoodOrderApi.Model.Domain;
 using FoodOrderApi.Model.DTO;
 using Microsoft.AspNetCore.JsonPatch;
-
+using System;
 namespace FoodOrderApi.DataProvider
 {
     public interface IDataProvider
